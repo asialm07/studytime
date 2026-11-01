@@ -1,0 +1,17 @@
+{
+  "name": "Studytime",
+  "short_name": "Studytime",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0ea5e9",
+  "description": "Personal Study-Time Tracker",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
